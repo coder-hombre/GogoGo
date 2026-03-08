@@ -30,6 +30,13 @@ SerpAPI repository link [here](https://github.com/serpapi/serpapi-golang)
 - `POST /items`
 - `GET /findRandomItemFromList`
 
+  Post request body should look like
+  ```
+  {
+      "id": 0,
+      "name": "example"
+  }
+
 ## Verify
 
 With the server running:
