@@ -1,6 +1,7 @@
 # GogoGo
 
 Simple Go API with an in-memory item list and a SerpAPI-backed random-item search endpoint.
+SerpAPI repository link [here](https://github.com/serpapi/serpapi-golang)
 
 ## Quick start
 
