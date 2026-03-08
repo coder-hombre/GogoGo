@@ -1,1 +1,4 @@
 GogoGo
+.env
+.env.*
+!.env.example
